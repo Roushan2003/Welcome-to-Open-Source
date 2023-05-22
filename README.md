@@ -1711,9 +1711,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/officialcs">
-                    <img src="https://avatars.githubusercontent.com/u/134294189?v=4" width="100px;" alt="Chetayan Singh"/>
+                    <img src="https://avatars.githubusercontent.com/u/134294189?v=4" width="100px;" alt="Chetanya Singh"/>
                     <br />
-                    <sub><b>Chetayan Singh</b></sub>
+                    <sub><b>Chetanya Singh</b></sub>
                 </a>
             </td>
         </tr>
